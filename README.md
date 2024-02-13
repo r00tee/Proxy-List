@@ -2,18 +2,18 @@
 
 ##
 
-  - **[Http/s](https://raw.githubusercontent.com/r00tee/Proxies/main/Https.txt)**
+  - **[Http/s](https://raw.githubusercontent.com/r00tee/Proxy-List/main/Https.txt)**
     
     ```bash
-    https://raw.githubusercontent.com/r00tee/Proxies/main/Https.txt
+    https://raw.githubusercontent.com/r00tee/Proxy-List/main/Https.txt
     ```
-  - **[Socks4](https://raw.githubusercontent.com/r00tee/Proxies/main/Socks4.txt)**
+  - **[Socks4](https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks4.txt)**
     
     ```bash
-    https://raw.githubusercontent.com/r00tee/Proxies/main/socks4.txt
+    https://raw.githubusercontent.com/r00tee/Proxy-List/main/socks4.txt
     ```
-  - **[Socks5](https://raw.githubusercontent.com/r00tee/Proxies/main/Socks5.txt)**
+  - **[Socks5](https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks5.txt)**
     
     ```bash
-    https://raw.githubusercontent.com/r00tee/Proxies/main/socks5.txt
+    https://raw.githubusercontent.com/r00tee/Proxy-List/main/socks5.txt
     ```
