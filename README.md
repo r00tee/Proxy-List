@@ -10,10 +10,10 @@
   - **[Socks4](https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks4.txt)**
     
     ```bash
-    https://raw.githubusercontent.com/r00tee/Proxy-List/main/socks4.txt
+    https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks4.txt
     ```
   - **[Socks5](https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks5.txt)**
     
     ```bash
-    https://raw.githubusercontent.com/r00tee/Proxy-List/main/socks5.txt
+    https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks5.txt
     ```
