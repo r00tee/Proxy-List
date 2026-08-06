@@ -1,37 +1,31 @@
-# 任务目标
+# 🌍 自动代理列表更新工具 🚀
 
 <!-- hy-mt2-i18n:start -->
 [English](./README.md) | **中文** | [日本語](./README_ja.md) | [Español](./README_es.md)
 <!-- hy-mt2-i18n:end -->
 
-将下方 Markdown 格式数据翻译为中文。
 
-# 严格约束
-1. **只输出译文**。不要添加任何额外的文字内容。
-2. **结构锁定**：绝对保持原有的 Markdown 数据结构、缩进、标题层级、表格、链接、URL、徽章、代码块和行内代码完全不变。
-3. **选择性翻译**：仅翻译面向用户展示的可见自然语言内容（正文、标题、说明文字和表格文本）。
-4. **禁止修改**：**严禁**翻译或更改代码标签、键名、变量占位符（如 {{var}}、${var}、%s、%d 等）、命令示例、文件路径、项目名、API 名、包名、模型名、标识符和代码符号；除非原文已经给出对应译名。
+该仓库提供了一个**自动更新的代理列表**，每**3小时**更新一次，其中包含**HTTP**、**HTTPS**、**SOCKS4**和**SOCKS5**类型的代理。这些代理来自全球多个来源，因此能够形成一套**多样且全面**的代理集合。
 
-# 数据输入
-源文件：README.md
+## 🌟 功能特点：
+- 🔄 **定期更新**：代理列表每**3小时**刷新一次，确保提供最新版本的代理。
+- 🌐 **多种协议支持**：涵盖**HTTP**、**HTTPS**、**SOCKS4**以及**SOCKS5**协议的代理。
+- 🌍 **按国家分类**：按国家进行整理，便于查找和筛选。
+- 🌎 **全球覆盖**：提供来自不同国家的代理，可满足各种不同的使用需求。
 
-Markdown 内容：
-🚀 免费的 Http/s、Socks4、Socks5 代理列表 **每5分钟更新一次**
+## 📂 代理文件：
 
-##
+您可以直接访问以下代理列表：
+- 🌐 [**HTTP代理**](https://github.com/SoliSpirit/proxy-list/blob/main/http.txt)
+- 🔒 [**HTTPS代理**](https://github.com/SoliSpirit/proxy-list/blob/main/https.txt)
+- 🛡️ [**SOCKS4代理**](https://github.com/SoliSpirit/proxy-list/blob/main/socks4.txt)
+- 🔑 [**SOCKS5代理**](https://github.com/SoliSpirit/proxy-list/blob/main/socks5.txt)
 
-  - **[Http/s](https://raw.githubusercontent.com/r00tee/Proxy-List/main/Https.txt)**
-    
-    ```bash
-    https://raw.githubusercontent.com/r00tee/Proxy-List/main/Https.txt
-    ```
-  - **[Socks4](https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks4.txt)**
-    
-    ```bash
-    https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks4.txt
-    ```
-  - **[Socks5](https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks5.txt)**
-    
-    ```bash
-    https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks5.txt
-    ```
+如需按**国家**分类查看代理，请访问[**国家列表**](https://github.com/SoliSpirit/proxy-list/tree/main/Countries)目录。
+
+## ⚙️ 使用方法：
+
+1. 🤖 **克隆**该仓库，或直接下载代理文件。
+2. 🔌 在您常用的工具或脚本中**使用**这些代理。
+3. 📜 请确保在使用这些代理的任何工具或服务时，都遵守其相关服务条款。
+4.

@@ -1,37 +1,31 @@
-# Objetivo de la tarea
+# 🌍 Actualizador automático de la lista de proxies 🚀
 
 <!-- hy-mt2-i18n:start -->
 [English](./README.md) | [中文](./README_zh-CN.md) | [日本語](./README_ja.md) | **Español**
 <!-- hy-mt2-i18n:end -->
 
-Traducir los datos en formato Markdown a continuación al español.
 
-# Restricciones estrictas
-1. **Solo output en español**: No se debe incluir ningún resultado rodeado por código.
-2. **Mantenimiento estructural**: Se debe conservar íntegramente la estructura original de Markdown, los sangrados, los niveles de título, las tablas, los enlaces, las URL, las insignias, los bloques de código y el código dentro de las líneas, sin realizar cambios alguno.
-3. **Traducción selectiva**: Solo se deben traducir los contenidos de lenguaje natural visibles para el usuario (texto principal, títulos, textos explicativos y texto de tablas).
-4. **Prohibición de modificaciones**: Está **estrictamente prohibido** traducir o modificar etiquetas de código, nombres de claves, placeholders de variables (como {{var}}, ${var}, %s, %d, etc.), ejemplos de comandos, rutas de archivos, nombres de proyectos, nombres de API, nombres de paquetes, nombres de modelos, identificadores y símbolos de código; a menos que el texto original ya disponga de una traducción correspondiente.
+Este repositorio ofrece una **lista de proxies automatizada**, actualizada cada **3 horas**, que incluye proxies de **HTTP**, **HTTPS**, **SOCKS4** y **SOCKS5**. Estos proxies se recopilan de diversas fuentes en todo el mundo, lo que garantiza una colección **diversa** y **completa**.
 
-# Entrada de datos
-Archivo de origen: README.md
+## 🌟 Características:
+- 🔄 **Actualizaciones regulares**: Las listas de proxies se actualizan cada **3 horas** para ofrecer los proxies más recientes.
+- 🌐 **Múltiples protocolos**: Incluye proxies para los protocolos **HTTP**, **HTTPS**, **SOCKS4** y **SOCKS5**.
+- 🌍 **Proxies por país**: Están organizados por país para facilitar el acceso y el filtrado.
+- 🌎 **Cobertura global**: Proxies de varios países para satisfacer diferentes necesidades de uso.
 
-Contenido de Markdown:
-🚀 Lista gratuita de proxies Http/s, Socks4, Socks5 **Actualizada cada 5 minutos**
+## 📂 Archivos de proxies:
 
-##
+Puede acceder directamente a las listas de proxies:
+- 🌐 [**Proxies HTTP**](https://github.com/SoliSpirit/proxy-list/blob/main/http.txt)
+- 🔒 [**Proxies HTTPS**](https://github.com/SoliSpirit/proxy-list/blob/main/https.txt)
+- 🛡️ [**Proxies SOCKS4**](https://github.com/SoliSpirit/proxy-list/blob/main/socks4.txt)
+- 🔑 [**Proxies SOCKS5**](https://github.com/SoliSpirit/proxy-list/blob/main/socks5.txt)
 
-  - **[Http/s](https://raw.githubusercontent.com/r00tee/Proxy-List/main/Https.txt)**
-    
-    ```bash
-    https://raw.githubusercontent.com/r00tee/Proxy-List/main/Https.txt
-    ```
-  - **[Socks4](https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks4.txt)**
-    
-    ```bash
-    https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks4.txt
-    ```
-  - **[Socks5](https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks5.txt)**
-    
-    ```bash
-    https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks5.txt
-    ```
+Para encontrar proxies ordenados por **país**, visite el directorio [**Países**](https://github.com/SoliSpirit/proxy-list/tree/main/Countries).
+
+## ⚙️ Uso:
+
+1. 🤖 **Clone** el repositorio o descargue directamente los archivos de proxies.
+2. 🔌 **Utilice** los proxies en las herramientas o scripts que prefiera.
+3. 📜 **Asegúrese de cumplir** con los términos de servicio de cualquier herramienta o servicio en el que utilice estos proxies.
+4.
